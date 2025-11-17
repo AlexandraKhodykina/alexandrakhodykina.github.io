@@ -7,12 +7,12 @@
   "description": "A simply readable Hacker News app.",
   "icons": [
     {
-      "src": "homescreen48.jpg",
+      "src": "homescreen96.jpg",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "homescreen72.jpg",
+      "src": "homescreen96.jpg",
       "sizes": "72x72",
       "type": "image/png"
     },
@@ -22,17 +22,17 @@
       "type": "image/png"
     },
     {
-      "src": "homescreen144.jpg",
+      "src": "homescreen96.jpg",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "homescreen168.jpg",
+      "src": "homescreen96.jpg",
       "sizes": "168x168",
       "type": "image/png"
     },
     {
-      "src": "homescreen192.jpg",
+      "src": "homescreen96.jpg",
       "sizes": "192x192",
       "type": "image/png"
     }
