@@ -1,5 +1,5 @@
 const CACHE = 'network-or-cache-v1';
-const timeout = 15;
+const timeout = 400;
 
 // При установке воркера мы должны закешировать часть данных (статику).
 self.addEventListener('install', (event) => {
